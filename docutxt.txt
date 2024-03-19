@@ -1,8 +1,5 @@
-Esto es un título
+Soy Angelica Acosta, 
 
-Esto es un título centrado
+Estoy repasando conceptos que tenía muchísimo tiempo sin estudiar y practicar.
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
-
-
-Y esto de arriba es la foto de unas Suricatas.
+Estoy estudiando todo lo que me ayude a especializarme como QA Engineer.
